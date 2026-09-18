@@ -18,6 +18,10 @@ The extension places a small edit icon over webpage images larger than 300 × 30
 - Supports MockoFun's guest editor when registration would otherwise interrupt the handoff.
 - Removes temporary image data after the editor confirms a successful import.
 
+## Install from the Chrome Web Store
+
+[Install Send Image to MockoFun from the Chrome Web Store](https://chromewebstore.google.com/detail/send-image-to-mockofun/ghihkbppkmegockemfnchikkafndncci).
+
 ## Install for development
 
 1. Open `chrome://extensions` in Chrome.
